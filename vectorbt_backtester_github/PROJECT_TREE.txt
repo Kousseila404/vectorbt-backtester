@@ -1,0 +1,22 @@
+./
+    .gitignore
+    LICENSE
+    README.md
+    __init__.py
+    backtester.py
+    config.py
+    context.py
+    context_splitter.py
+    main.py
+    pyproject.toml
+    requirements.txt
+    results_analyzer.py
+    strategies.py
+    utils.py
+    validator.py
+    walkforward.py
+results/
+    best_strategies.csv
+    best_strategies_global.csv
+    worst_strategies.csv
+    worst_strategies_global.csv

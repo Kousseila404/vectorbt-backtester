@@ -1,0 +1,16 @@
+backtester
+config
+context
+context_splitter
+matplotlib
+numpy
+pandas
+pandas_ta
+plotly
+results_analyzer
+strategies
+tqdm
+validator
+vectorbt
+walkforward
+yfinance
