@@ -1,4 +1,4 @@
-# VectorBT Backtester Pro (Starter)
+# VectorBT Backtester Pro
 
 ## 🚀 Description
 
